@@ -26,7 +26,7 @@ def APOD():
     if "copyright" in parsed_json[0]:
         print("Copyright:", parsed_json[0]["copyright"]) #Copyright owner
     else:
-        print("Copyright not listed")
+        print("Image is public domain")
     
     webbrowser.open(parsed_json[0]["url"]) #shows image in browser window
 APOD()
