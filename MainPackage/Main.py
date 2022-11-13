@@ -1,7 +1,10 @@
 '''
-Created on Nov 3, 2022
-
-@author: noahdraper
+Name: Noah Draper, Drew Sexton
+email: drapernm@mail.uc.edu, sextondw@mail.uc.edu
+Assignment: Assignment 07
+Course: IS 4010
+Semester/Year: Fall 2022
+Brief Description:This projects demonstrates that we can make and API call with a URL
 '''
 
 import json
